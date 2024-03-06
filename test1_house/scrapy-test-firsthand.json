@@ -1,0 +1,50 @@
+{"name": "北辰墅院1900", "types": "住宅", "position": "顺兴街11号院望尊园", "position1": "顺义", "position2": "马坡", "houseType": "3室", "space": "建面 83-135㎡", "unitPrice": "36000", "totalPrice": "总价430(万/套)"}
+{"name": "燕西华府", "types": "别墅", "position": "王佐镇青龙湖公园东1500米, 泉湖西路1号院（七区）, 泉湖西路1号院（六区）", "position1": "丰台", "position2": "丰台其它", "houseType": "3室", "space": "建面 350-851㎡", "unitPrice": "47000", "totalPrice": "总价1400-3500(万/套)"}
+{"name": "京西悦府", "types": "住宅", "position": "燕房线阎村地铁站东南角约189米", "position1": "房山", "position2": "阎村", "houseType": null, "space": "建面 120-135㎡", "unitPrice": "33000", "totalPrice": "总价440(万/套)"}
+{"name": "福景苑", "types": "住宅", "position": "亮马桥路46号", "position1": "朝阳", "position2": "燕莎", "houseType": "1室", "space": "建面 145-268㎡", "unitPrice": "83000", "totalPrice": "总价1150-2400(万/套)"}
+{"name": "合景寰汇公馆", "types": "住宅", "position": "北京市通州区滨河中路西侧（合景寰汇公馆）", "position1": "通州", "position2": "武夷花园", "houseType": "2室", "space": "建面 77-117㎡", "unitPrice": "35000", "totalPrice": "总价280-490(万/套)"}
+{"name": "K2十里春风", "types": "住宅", "position": "北京市通州区", "position1": "通州", "position2": "通州其它", "houseType": "2室", "space": "建面 74-90㎡", "unitPrice": "23500", "totalPrice": "总价188-212(万/套)"}
+{"name": "K2十里春风", "types": "别墅", "position": "北京市通州区", "position1": "通州", "position2": "通州其它", "houseType": "3室", "space": "建面 155-156㎡", "unitPrice": "28000", "totalPrice": "总价440-460(万/套)"}
+{"name": "玺萌壹號院", "types": "别墅", "position": "西南三环嘉园路与镇国寺北街交叉口", "position1": "丰台", "position2": "草桥", "houseType": "5室", "space": "建面 320-464㎡", "unitPrice": "90000", "totalPrice": "总价3650-3940(万/套)"}
+{"name": "北京书院", "types": "住宅", "position": "北京市朝阳区北土城东路辅路", "position1": "朝阳", "position2": "惠新西街", "houseType": "1室", "space": "建面 79-139㎡", "unitPrice": "155000", "totalPrice": "总价1066(万/套)"}
+{"name": "中铁华侨城和园", "types": "住宅", "position": "南五环南海子公园西侧约500米", "position1": "大兴", "position2": "瀛海", "houseType": "3室", "space": "建面 154-184㎡", "unitPrice": "60000", "totalPrice": "总价930-980(万/套)"}
+{"name": "顺鑫颐和天璟", "types": "住宅", "position": "北京市顺义区牛栏山镇牛富路顺鑫颐和天璟禧润售楼中心", "position1": "顺义", "position2": "顺义其它", "houseType": "4室", "space": "建面 110-220㎡", "unitPrice": "28000", "totalPrice": "总价400-420(万/套)"}
+{"name": "顺鑫颐和天璟", "types": "别墅", "position": "新城右堤路与昌金路交汇处向北200米", "position1": "顺义", "position2": "顺义其它", "houseType": "4室", "space": "建面 278-486㎡", "unitPrice": "28000", "totalPrice": "总价950-1200(万/套)"}
+{"name": "永旺19街", "types": "商业", "position": "地铁生物医药基地站向南200米", "position1": "大兴", "position2": "天宫院", "houseType": null, "space": null, "unitPrice": "24000", "totalPrice": "总价299(万/套)"}
+{"name": "北京城建北京合院", "types": "住宅", "position": "燕京街与通顺路交汇口东800米(仁和公园南)", "position1": "顺义", "position2": "顺义其它", "houseType": "3室", "space": "建面 95-130㎡", "unitPrice": "46000", "totalPrice": "总价556-566(万/套)"}
+{"name": "复地运河公馆", "types": "住宅", "position": "通州运河核心区临滨河西路", "position1": "通州", "position2": "武夷花园", "houseType": "2室", "space": "建面 89-145㎡", "unitPrice": "43000", "totalPrice": "总价450-650(万/套)"}
+{"name": "北京城建北京合院", "types": "别墅", "position": "燕京街与通顺路交汇口东800米(仁和公园南)", "position1": "顺义", "position2": "顺义其它", "houseType": "4室", "space": "建面 210-330㎡", "unitPrice": "39000", "totalPrice": "总价1000-1300(万/套)"}
+{"name": "月亮河七星公馆", "types": "住宅", "position": "通燕高速耿庄桥出口南200米月亮河，河滨路1号", "position1": "通州", "position2": "武夷花园", "houseType": "1室", "space": "建面 55-109㎡", "unitPrice": "68000", "totalPrice": "总价374-800(万/套)"}
+{"name": "天润福熙大道", "types": "住宅", "position": "清河营东路1号院, 清河营东路3号院", "position1": "朝阳", "position2": "北苑", "houseType": "1室", "space": "建面 65-374㎡", "unitPrice": "108000", "totalPrice": "总价750-3316(万/套)"}
+{"name": "京贸国际公馆", "types": "住宅", "position": "怡乐中路299号院（广渠快速路二期出口向南1000米）", "position1": "通州", "position2": "九棵树(家乐福)", "houseType": "1室", "space": "建面 72-147㎡", "unitPrice": "64000", "totalPrice": "总价495-950(万/套)"}
+{"name": "凯德麓语", "types": "别墅", "position": "兴寿镇京承高速G11出口向西怀昌路北侧", "position1": "昌平", "position2": "昌平其它", "houseType": "3室", "space": "建面 280-863㎡", "unitPrice": "35000", "totalPrice": "总价850-3450(万/套)"}
+{"name": "京贸国际城·峰景", "types": "住宅", "position": "芙蓉东路1号（通燕高速耿庄桥北出口向南300米）", "position1": "通州", "position2": "武夷花园", "houseType": "1室", "space": "建面 69-140㎡", "unitPrice": "68000", "totalPrice": "总价460-980(万/套)"}
+{"name": "观唐云鼎", "types": "别墅", "position": "溪翁庄镇密溪路39号院（云佛山度假村对面）", "position1": "密云", "position2": "溪翁庄镇", "houseType": "3室", "space": "建面 346-613㎡", "unitPrice": "30000", "totalPrice": "总价1068-1850(万/套)"}
+{"name": "旭辉城", "types": "住宅", "position": "北京市房山区良锦街6号院旭辉城营销中心", "position1": "房山", "position2": "房山其它", "houseType": "2室", "space": "建面 75-116㎡", "unitPrice": "28500", "totalPrice": "总价219-330(万/套)"}
+{"name": "檀香府", "types": "住宅", "position": "京潭大街与潭柘十街交叉口", "position1": "门头沟", "position2": "门头沟其它", "houseType": "3室", "space": "建面 124-170㎡", "unitPrice": "42000", "totalPrice": "总价530-750(万/套)"}
+{"name": "泰禾金府大院", "types": "别墅", "position": "南四环地铁新宫站南800米", "position1": "丰台", "position2": "新宫", "houseType": "4室", "space": "建面 362-504㎡", "unitPrice": "75000", "totalPrice": "总价2700-3700(万/套)"}
+{"name": "和棠瑞著", "types": "别墅", "position": "金海湖景区坝前广场西侧500米", "position1": "平谷", "position2": "平谷其它", "houseType": "3室", "space": "建面 305-360㎡", "unitPrice": "16000", "totalPrice": "总价530-560(万/套)"}
+{"name": "尊悦光华", "types": "住宅", "position": "北京市朝阳区光华东里甲1号院3号楼", "position1": "朝阳", "position2": "CBD", "houseType": "3室", "space": "建面 133-171㎡", "unitPrice": "150000", "totalPrice": "总价2500(万/套)"}
+{"name": "首创·河著", "types": "别墅", "position": "京承高速11出口（昌金路）向东900 米路北", "position1": "顺义", "position2": "顺义其它", "houseType": "4室", "space": "建面 248-310㎡", "unitPrice": "38000", "totalPrice": "总价1200-1900(万/套)"}
+{"name": "华萃西山", "types": "住宅", "position": "永定镇地铁S1号线石厂西南700米", "position1": "门头沟", "position2": "门头沟其它", "houseType": "3室", "space": "建面 115-122㎡", "unitPrice": "48000", "totalPrice": "总价560-600(万/套)"}
+{"name": "京西悦府", "types": "别墅", "position": "北京市房山区燕房线阎村地铁站东南角约189米", "position1": "房山", "position2": "阎村", "houseType": "3室", "space": "建面 175-176㎡", "unitPrice": "40000", "totalPrice": "总价700-780(万/套)"}
+{"name": "中粮天恒天悦壹号", "types": "别墅", "position": "南四环地铁新宫站南500米", "position1": "丰台", "position2": "新宫", "houseType": "4室", "space": "建面 220-340㎡", "unitPrice": "80000", "totalPrice": "总价2000-2360(万/套)"}
+{"name": "龙湾别墅", "types": "住宅", "position": "后沙峪镇龙湾别墅", "position1": "顺义", "position2": "中央别墅区", "houseType": "4室", "space": "建面 218-317㎡", "unitPrice": "70000", "totalPrice": "总价2300(万/套)"}
+{"name": "京投发展·锦悦府", "types": "住宅", "position": "檀营乡檀东路西侧", "position1": "密云", "position2": "鼓楼街道", "houseType": "3室", "space": "建面 90㎡", "unitPrice": "25607", "totalPrice": "总价220(万/套)"}
+{"name": "京投发展·锦悦府", "types": "别墅", "position": "檀营乡檀东路西侧", "position1": "密云", "position2": "鼓楼街道", "houseType": "3室", "space": "建面 187-285㎡", "unitPrice": "25000", "totalPrice": "总价400-560(万/套)"}
+{"name": "金辰府", "types": "住宅", "position": "北京市昌平区北七家镇政府东南100米", "position1": "昌平", "position2": "北七家", "houseType": "3室", "space": "建面 89-143㎡", "unitPrice": "55000", "totalPrice": "总价490-790(万/套)"}
+{"name": "建邦·顺颐府", "types": "住宅", "position": "空港B区裕民大街30号千里马国际一层建邦·顺颐府售楼中心", "position1": "顺义", "position2": "后沙峪", "houseType": "3室", "space": "建面 89-147㎡", "unitPrice": "55583", "totalPrice": "总价480-845(万/套)"}
+{"name": "葛洲坝中国府", "types": "住宅", "position": "北京市丰台东路46号", "position1": "丰台", "position2": "玉泉营", "houseType": "3室", "space": "建面 168-240㎡", "unitPrice": "125000", "totalPrice": "总价2200-3000(万/套)"}
+{"name": "华萃西山", "types": "别墅", "position": "门头沟永定镇地铁S1号线石厂站西南700米", "position1": "门头沟", "position2": "门头沟其它", "houseType": "4室", "space": "建面 135-245㎡", "unitPrice": "48000", "totalPrice": "总价760-1060(万/套)"}
+{"name": "富兴首府", "types": "住宅", "position": "东坝路9号东北60米", "position1": "朝阳", "position2": "东坝", "houseType": "3室", "space": "建面 144-356㎡", "unitPrice": "85000", "totalPrice": "总价1706-2240(万/套)"}
+{"name": "中铁诺德阅墅", "types": "别墅", "position": "顺义区后沙峪镇裕园路762乡龙湖滟澜山对面", "position1": "顺义", "position2": "中央别墅区", "houseType": "4室", "space": "建面 235-320㎡", "unitPrice": "50000", "totalPrice": "总价1150-1700(万/套)"}
+{"name": "中铁华侨城和园", "types": "别墅", "position": "南五环南海子公园西侧约500米", "position1": "大兴", "position2": "瀛海", "houseType": "4室", "space": "建面 288-370㎡", "unitPrice": "50000", "totalPrice": "总价1870(万/套)"}
+{"name": "懋源·璟岳", "types": "别墅", "position": "南三环西路99号院", "position1": "丰台", "position2": "玉泉营", "houseType": "4室", "space": "建面 465-590㎡", "unitPrice": "140000", "totalPrice": "总价6500-9000(万/套)"}
+{"name": "合景泰富天汇", "types": "住宅", "position": "顺义区昌金路与通顺路交汇处", "position1": "顺义", "position2": "马坡", "houseType": "2室", "space": "建面 70-117㎡", "unitPrice": "33000", "totalPrice": "总价230-390(万/套)"}
+{"name": "懋源·璟玺", "types": "别墅", "position": "孙河京密路与京平辅路交叉口西行1000米", "position1": "朝阳", "position2": "中央别墅区", "houseType": "5室", "space": "建面 500-716㎡", "unitPrice": "100000", "totalPrice": "总价4380-6778(万/套)"}
+{"name": "万科雲庐", "types": "住宅", "position": "魏各庄路万科雲庐。售楼处位置在山湖路与泉湖西湖交叉位置", "position1": "丰台", "position2": "丰台其它", "houseType": "4室", "space": "建面 104-300㎡", "unitPrice": "39000", "totalPrice": "总价656-820(万/套)"}
+{"name": "万科雲庐", "types": "别墅", "position": "魏各庄路万科雲庐", "position1": "丰台", "position2": "丰台其它", "houseType": "4室", "space": "建面 200-330㎡", "unitPrice": "30000", "totalPrice": "总价852-950(万/套)"}
+{"name": "金茂北京国际社区", "types": "住宅", "position": "顺义新城北小营昌金路水色时光路西", "position1": "顺义", "position2": "顺义其它", "houseType": "1室", "space": "建面 50-118㎡", "unitPrice": "30000", "totalPrice": "总价160-360(万/套)"}
+{"name": "住总如院", "types": "住宅", "position": "北京市大兴区采华路(波尔多小镇南区西南侧约250米)", "position1": "大兴", "position2": "大兴新机场洋房别墅区", "houseType": "2室", "space": "建面 98-233㎡", "unitPrice": "31136", "totalPrice": "总价280-475(万/套)"}
+{"name": "郎府书苑", "types": "住宅", "position": "西集镇京哈高速郎府出口南侧300米", "position1": "通州", "position2": "通州其它", "houseType": "3室", "space": "建面 89-116㎡", "unitPrice": "25800", "totalPrice": "总价273-300(万/套)"}
+{"name": "建邦·顺颐府", "types": "别墅", "position": "空港B区裕民大街30号", "position1": "顺义", "position2": "后沙峪", "houseType": "3室", "space": "建面 270㎡", "unitPrice": "55583", "totalPrice": "总价1300(万/套)"}
